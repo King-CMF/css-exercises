@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.first{
+    background-color: red;
+}
+
+#second{
+    color:blue;
+}
+
+.third{
+    background-color: red;
+}
+
+#forth{
+    background-color: green;
+}
+
+.fith{
+    background-color: red;
+}
