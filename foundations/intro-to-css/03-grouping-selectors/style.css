@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.click{
+    background-color: black;
+    color: white;
+}
+
+.no{
+    background-color: yellow;
+}
+
+.click,
+.no {
+    font-size: 20px;
+    font-family: "Helvetica" "Times New Roman" sans-serif 
+}
